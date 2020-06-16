@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8be2a34-0168-40ec-8144-214ec39d6d15" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1YWuTko31SgBUm7lBqlMcDf2XFh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../job/Classes" />
+      <recent name="$PROJECT_DIR$/../job/CSY2028" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Ijdb/Controllers" />
+      <recent name="$PROJECT_DIR$/CSY2028" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8be2a34-0168-40ec-8144-214ec39d6d15" name="Default Changelist" comment="" />
+      <created>1583070680294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583070680294</updated>
+      <workItem from="1583070681775" duration="3457000" />
+      <workItem from="1583101461987" duration="16000" />
+      <workItem from="1583150396258" duration="16677000" />
+      <workItem from="1583194465264" duration="2398000" />
+      <workItem from="1583236591030" duration="120000" />
+      <workItem from="1583236947448" duration="261000" />
+      <workItem from="1583239607835" duration="602000" />
+      <workItem from="1583261835021" duration="1299000" />
+      <workItem from="1583319649741" duration="26386000" />
+      <workItem from="1583413460120" duration="607000" />
+      <workItem from="1583435553828" duration="9392000" />
+      <workItem from="1583504702591" duration="5613000" />
+      <workItem from="1583522049369" duration="957000" />
+      <workItem from="1583542028696" duration="3098000" />
+      <workItem from="1583588590475" duration="13976000" />
+      <workItem from="1583752342685" duration="13548000" />
+      <workItem from="1583782957764" duration="16272000" />
+      <workItem from="1583807278980" duration="324000" />
+      <workItem from="1583807818609" duration="685000" />
+      <workItem from="1583866635934" duration="10802000" />
+      <workItem from="1583932278955" duration="18427000" />
+      <workItem from="1583976779188" duration="209000" />
+      <workItem from="1583977367152" duration="15000" />
+      <workItem from="1584018049661" duration="708000" />
+      <workItem from="1584025644250" duration="1580000" />
+      <workItem from="1584033398256" duration="1074000" />
+      <workItem from="1584034921552" duration="22591000" />
+      <workItem from="1584109211285" duration="6560000" />
+      <workItem from="1584193465867" duration="20966000" />
+      <workItem from="1584231771191" duration="890000" />
+      <workItem from="1584278117363" duration="25322000" />
+      <workItem from="1584356623443" duration="12237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="702" y="357" width="571" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583546906288">
+      <screen x="65" y="25" width="1855" height="1055" />
+    </state>
+    <state x="702" y="357" width="571" height="396" key="#com.intellij.fileTypes.FileTypeChooser/65.25.1855.1055@65.25.1855.1055" timestamp="1583546906288" />
+    <state x="767" y="271" width="441" height="568" key="#com.intellij.ide.util.MemberChooser" timestamp="1583867158721">
+      <screen x="65" y="25" width="1855" height="1055" />
+    </state>
+    <state x="767" y="271" width="441" height="568" key="#com.intellij.ide.util.MemberChooser/65.25.1855.1055/1920.0.1920.1080@65.25.1855.1055" timestamp="1583867158721" />
+    <state x="247" y="25" width="545" height="1055" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584197114404">
+      <screen x="65" y="25" width="1855" height="1055" />
+    </state>
+    <state x="247" y="25" width="545" height="1055" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/65.25.1855.1055/1920.0.1920.1080@65.25.1855.1055" timestamp="1584197114404" />
+    <state x="2663" y="298" width="424" height="490" key="FileChooserDialogImpl" timestamp="1583101475956">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="298" width="424" height="490" key="FileChooserDialogImpl/65.25.1855.1055/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583101475956" />
+    <state x="735" y="366" width="577" height="427" key="NewPhpClassDialog" timestamp="1584299420756">
+      <screen x="65" y="25" width="1855" height="1055" />
+    </state>
+    <state x="735" y="366" width="577" height="427" key="NewPhpClassDialog/65.25.1855.1055/1920.0.1920.1080@65.25.1855.1055" timestamp="1584299420756" />
+    <state x="735" y="366" key="NewPhpClassDialog/65.25.1855.1055@65.25.1855.1055" timestamp="1583546928664" />
+    <state x="788" y="478" width="399" height="155" key="NewPhpFileDialog" timestamp="1584360408361">
+      <screen x="65" y="25" width="1855" height="1055" />
+    </state>
+    <state x="788" y="478" width="399" height="155" key="NewPhpFileDialog/65.25.1855.1055/1920.0.1920.1080@65.25.1855.1055" timestamp="1584360408361" />
+    <state x="660" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1584356623657">
+      <screen x="65" y="25" width="1855" height="1055" />
+    </state>
+    <state x="2536" y="367" key="com.intellij.ide.util.TipDialog/65.25.1855.1055/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583101462599" />
+    <state x="660" y="384" key="com.intellij.ide.util.TipDialog/65.25.1855.1055/1920.0.1920.1080@65.25.1855.1055" timestamp="1584356623657" />
+    <state x="660" y="384" key="com.intellij.ide.util.TipDialog/65.25.1855.1055@65.25.1855.1055" timestamp="1584231771645" />
+    <state x="2295" y="0" width="1526" height="1011" maximized="true" key="dock-window-1" timestamp="1583795210763">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2295" y="0" width="1526" height="1011" maximized="true" key="dock-window-1/65.25.1855.1055/1920.0.1920.1080@65.25.1855.1055" timestamp="1583795210763" />
+    <state x="656" y="252" key="run.anything.popup" timestamp="1583770583840">
+      <screen x="65" y="25" width="1855" height="1055" />
+    </state>
+    <state x="656" y="252" key="run.anything.popup/65.25.1855.1055/1920.0.1920.1080@65.25.1855.1055" timestamp="1583770583840" />
+    <state x="655" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1584303552807">
+      <screen x="65" y="25" width="1855" height="1055" />
+    </state>
+    <state x="655" y="257" width="672" height="678" key="search.everywhere.popup/65.25.1855.1055/1920.0.1920.1080@65.25.1855.1055" timestamp="1584303552807" />
+  </component>
+</project>
